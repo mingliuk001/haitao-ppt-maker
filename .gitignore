@@ -1,0 +1,12 @@
+.DS_Store
+.claude/
+dist/
+dev/node_modules/
+dev/package-lock.json
+dev/pptxgen.patched.cjs.js
+dev/entry*.js
+dev/e2e/
+samples/*/shots/
+samples/*/ql/
+samples/*/preview/
+samples/风格总览.html
